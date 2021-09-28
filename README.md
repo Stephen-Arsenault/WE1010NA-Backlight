@@ -15,6 +15,8 @@ Licensing requires this project is listed with the following:
  - Clearly link to this GitHub repo in your description.
  - Clearly list "Stephen Arsenault" as the creator of this project.
 
+# Assembly
+Learn more about assembly [here](ASSEMBLY.md).
 
 # Support
 Big Mess O' Wires discontinued sales and support for the ROMinator. If you have general questions about assembly or parts please feel free to [join the Open Retro SCSI Discord server](https://discord.gg/5AtypUqFCT).
