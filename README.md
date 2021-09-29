@@ -21,9 +21,6 @@ Learn more about assembly [here](ASSEMBLY.md).
    - Any scratches in your LCD or the protective lense will become more evident. ([Low-Light](images/after_dark.jpg?raw=true)) ([Lighted Room](images/after_lights.jpg?raw=true))
    - The screen is visible in dark light but contrast is lowered. I believe this is due to the lack of reflective rear-coating on the Weller LCD.
 
-# Support
-Big Mess O' Wires discontinued sales and support for the ROMinator. If you have general questions about assembly or parts please feel free to [join the Open Retro SCSI Discord server](https://discord.gg/5AtypUqFCT).
-
 # Commercial Use
 This project is licensed as CC BY-SA 4.0 and therefor permits commercial use. I encourage anyone interested to make these available at the lowest comfortable price so long as they provide sufficient attribution:
  - Clearly link to this GitHub repo
@@ -34,4 +31,4 @@ This work is licensed under a CC-BY-SA 4.0
 [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0).
 
 # Warranty
-This project, whether sold directly by me or anyone else, does not come with a warranty. Any modifications or damage to your Weller WE 1010NA or injury as a result is solely your own responsibility.
+This project, whether sold directly by me or anyone else, does not come with a warranty. Any modifications or damage to your Weller WE 1010NA or injury as a result is solely your own responsibility. Additional support is not offered.
