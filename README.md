@@ -2,7 +2,7 @@
 <img align="right" width="300" src="images/assembled_board.jpg?raw=true">
 
 # Weller WE 1010NA Backlight
-This is a reasonably straight forward upgrade for the Weller WE 1010NA soldering iron. With three modifications you can add a backlight:
+This is a reasonably straight forward upgrade for the Weller WE 1010NA soldering iron ([open hardware](https://oshwlab.com/stephenarsenault/we1010na-backlight)). With three modifications you can add a backlight:
  - Two soldered wires (gnd + 5v)
  - One modified mounting point
 
