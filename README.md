@@ -17,6 +17,9 @@ Licensing requires this project is listed with the following:
 
 # Assembly
 Learn more about assembly [here](ASSEMBLY.md).
+ - Warnings:
+   - Any scratches in your LCD or the protective lense will become more evident. ([Low-Light](images/after_dark.jpg?raw=true)) ([Lighted Room](images/after_lights.jpg?raw=true))
+   - The screen is visible in dark light but contrast is lowered. I believe this is due to the lack of reflective rear-coating on the Weller LCD.
 
 # Support
 Big Mess O' Wires discontinued sales and support for the ROMinator. If you have general questions about assembly or parts please feel free to [join the Open Retro SCSI Discord server](https://discord.gg/5AtypUqFCT).
